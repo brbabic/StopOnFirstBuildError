@@ -1,0 +1,2 @@
+# StopOnFirstBuildError
+StopOnFirstBuildError
